@@ -73,4 +73,16 @@ li{
     top: -210px;
     
   }
-  
+  .burger-palace{
+    border: 2px solid green;
+    border-radius: 20px;
+    margin-left: 25px;
+    margin-right: 700px;
+    position: relative;
+    top:  -180px;
+  }
+  .footer{
+    background-color: grey;
+    
+  }
+ 
