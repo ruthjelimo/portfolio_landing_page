@@ -54,3 +54,13 @@ li{
    display: flex;
    flex-direction: column;
 }
+.projects h2{
+    margin-left: 300px;
+}
+.letuce{
+  border: 2px solid green;
+  border-radius: 20px;
+  margin-left: 25px;
+  margin-right: 700px; 
+ 
+}
