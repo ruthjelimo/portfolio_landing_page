@@ -36,3 +36,9 @@ li{
     padding:150px;
     
 }
+.about{
+    float: left;
+    background-color: cadetblue;
+    margin-left:  -100px;
+  
+}
