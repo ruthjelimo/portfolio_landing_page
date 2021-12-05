@@ -64,3 +64,13 @@ li{
   margin-right: 700px; 
  
 }
+.smart-pet{
+    border: 2px solid green;
+    border-radius: 20px;
+    margin-right: 100px;
+    margin-left: 600px;
+    position: relative;
+    top: -210px;
+    
+  }
+  
